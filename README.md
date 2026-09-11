@@ -1,4 +1,3 @@
-https://www.mathworks.com/products/matlab-online/git.html
 
 # Práctica 0: Modelo del sistema respiratorio
 
