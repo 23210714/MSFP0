@@ -1,5 +1,5 @@
 https://www.mathworks.com/products/matlab-online/git.html
-https://citation-file-format.github.io/cff-initializer-javascript/#/start
+
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
